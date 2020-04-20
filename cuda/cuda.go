@@ -3,7 +3,7 @@
 // For further details, please see:
 // https://github.com/opencv/opencv
 //
-// import "gocv.io/x/gocv/cuda"
+
 package cuda
 
 /*
